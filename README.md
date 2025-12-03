@@ -51,7 +51,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 - Targeted Marketing: Focus ad spend on Young Adults and Male demographics as they are the highest revenue drivers.
 - Product Positioning: Highlight high-rated items (Gloves, Sandals) in marketing materials to build trust with new customers.
 
-🚀 How to Run
+## How to Run
 
 - Python: Run python/data_cleaning.py to process the raw CSV.
 - SQL: Import the cleaned data into PostgreSQL and run sql/analysis_queries.sql.
